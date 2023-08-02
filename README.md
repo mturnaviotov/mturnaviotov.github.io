@@ -1,2 +1,0 @@
-# foxmuldercp.github.io
-Documents
