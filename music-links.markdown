@@ -1,39 +1,45 @@
 ---
 layout: page
-title: Lib's links
+title: Free libs
 permalink: /music-links
 ---
 
-# Music free lib's links
+# list of free music libraries, audio packs and effects list
+All links open in the current tab. press CMD or context menu to open it
 
 ## Orchestral
+Orchestral libraries
 
-### Spitfire
-Well known iconic sound libraries producer
+- [Native Instruments - You should own this - Kontakt Player required as standart for any kind of libraries](//www.native-instruments.com/en/catalog/free/)
+- [Spitfire Labs](//labs.spitfireaudio.com/)
+- [Spitfire BBC Orchestra discover](//www.spitfireaudio.com/bbc-symphony-orchestra-discover)
+- [Vienna Symphonic - VSL free pack](//www.vsl.co.at/en/Product_Overview/Free_Instruments)
+- [Keep Forest drums, effects](//keep-forest.com/store/free)
+- [ProjectSAM Free Orchestra](//projectsam.com/libraries/the-free-orchestra/)
+- [Sonic Couture](//www.soniccouture.com/en/free-stuff/)
+- [Elektronik (Atmos piano)](//electroniksoundlab.com/)
 
-- [Labs](//labs.spitfireaudio.com/)
-- [BBC Orchestra discover](//www.spitfireaudio.com/bbc-symphony-orchestra-discover)
+## Ethnic instruments
+- [Agus Hardiman Monster Ethnica](//agushardiman.tv/monster-ethnica-the-best-free-plugin-of-world-instruments/)
 
-### Native Instruments
-You should own this - Kontakt Player required as standart for many kind of libraries
+## Guitars
+- [Gtr Lite](//quietmusic.gumroad.com/l/tjshy/freegtr)
 
-- [Free packs](https://www.native-instruments.com/en/catalog/free/)
+## Drums
+- [MT Power drums](//www.powerdrumkit.com)
 
-### Vienna Symphonic
-- [VSL free pack](//www.vsl.co.at/en/Product_Overview/Free_Instruments)
-
-### Keep Forest
-cinematic drums, effects
-
-- [Utilites](//keep-forest.com/store/free)
-
-### Epic composer
-- [Monument try pack](//bit.ly/ec-monument-free-pack)
-
-### ProjectSAM
-- [Free Orchestra](//projectsam.com/libraries/the-free-orchestra/)
+## Audio packs
+- [Epic composer Monument](//bit.ly/ec-monument-free-pack)
+- [WA Production](www.waproduction.com/sounds/items/free)
 
 ## Synth
 
-- [Dexed](https://asb2m10.github.io/dexed/)
-- [BlackBird](https://github.com/khrykin/BlackBird/releases)
+- [Dexed](//asb2m10.github.io/dexed/)
+- [BlackBird](//github.com/khrykin/BlackBird/releases)
+- [Surge XT](//surge-synthesizer.github.io/downloads)
+- [TAL NoiseMaker](//tal-software.com/products/tal-noisemaker)
+
+## Utils
+Reverb, filters, gates, Equalizers...
+
+- [Kilohearts](//kilohearts.com/products/kilohearts_essentials)
