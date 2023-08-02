@@ -28,7 +28,7 @@ twitter_username: mturnaviotov
 github_username:  mturnaviotov
 
 # Build settings
-theme: minima
+theme: leap-day
 plugins:
   - jekyll-feed
 
