@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MT Contact
+title: Contact
 permalink: /contact
 ---
 My preferred languages are Ukraininan and English

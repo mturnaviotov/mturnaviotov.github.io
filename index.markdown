@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MT - Welcome
+title: Welcome
 ---
 
 Hi. My name is Mykola.
