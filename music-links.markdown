@@ -18,6 +18,7 @@ Orchestral libraries
 - [ProjectSAM Free Orchestra](//projectsam.com/libraries/the-free-orchestra/)
 - [Sonic Couture](//www.soniccouture.com/en/free-stuff/)
 - [Elektronik (Atmos piano)](//electroniksoundlab.com/)
+- [SynFul orchestra](https://www.synful.com/download)
 
 ## Ethnic instruments
 - [Agus Hardiman Monster Ethnica](//agushardiman.tv/monster-ethnica-the-best-free-plugin-of-world-instruments/)
