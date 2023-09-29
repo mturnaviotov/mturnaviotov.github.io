@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact
 ---
 My preferred languages are Ukrainian and English
+
 Now I'm located in Poland
 
 You can mail me [here](mailto:turnaviotovnn@gmail.com) 
