@@ -14,5 +14,5 @@ Link to [mentorship course](/devops-mentoring) program
 ## Creaty
 I am a photographer and short film director, a musician - mainly as a composer of orchestral music, a dancer in the Latin American style.
 
-##
-Links to my social can be found on [contact page](/contact)
+## Links and contact
+All links to my socials can be found on [contact page](/contact)
