@@ -5,8 +5,14 @@ title: Welcome
 
 Hi. My name is Mykola.
 
-I'm a IT expert with system administration and programming skills, last ~5 years I'm work as DevOps enginner
+I am an IT expert, DevOps/Architect
+with system administration and programming skills, I have been working as a DevOps engineer for the last 8+ years.
 
-I'm a photographer, musician - preferly as orchestral music composer, latina-styles dancer
+I also have a mentoring program for junior DevOps specialists, where we start from scratch and write our own small test application, up to creating an entire local mini-infrastructure Kubernetes to deploy this application, mastering all the necessary basic DevOps principles and methods.
+Link to [mentorship course](/devops-mentoring) program
 
+## Creaty
+I am a photographer and short film director, a musician - mainly as a composer of orchestral music, a dancer in the Latin American style.
+
+##
 Links to my social can be found on [contact page](/contact)
